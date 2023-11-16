@@ -613,4 +613,4 @@ async def bet(ctx,bet=None):
 #<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<CURRENCY COMMANDS ENDS>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>#
 
 
-client.run("ODAxNzExODkxMTI1ODk1MTY5.YAkqYQ.4bKjZRO9NBJiHMVBpPmoMt4EGWA")
+client.run("Insert key here")
